@@ -26,7 +26,7 @@
     <connection>scm:git:git@github.com:amimo816/git-demo.git</connection>
     <url>scm:git:git@github.com:amimo816/git-demo.git</url>
     <developerConnection>scm:git:git@github.com:amimo816/git-demo.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>git-demo-1.0-RB</tag>
   </scm>
 
   <build>
