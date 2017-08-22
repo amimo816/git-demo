@@ -3,7 +3,7 @@
 
   <groupId>com.amir.release</groupId>
   <artifactId>git-demo</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.3-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>git-demo</name>
@@ -26,7 +26,7 @@
     <connection>scm:git:git@github.com:amimo816/git-demo.git</connection>
     <url>scm:git:git@github.com:amimo816/git-demo.git</url>
     <developerConnection>scm:git:git@github.com:amimo816/git-demo.git</developerConnection>
-    <tag>git-demo-1.2-RB</tag>
+    <tag>git-demo-1.1-RB</tag>
   </scm>
 
   <build>
